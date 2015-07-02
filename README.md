@@ -3,7 +3,7 @@ test with ReactJS and GoLang
 
 Para executar o projeto siga os passos:
 
-1- Clone o repositório do projeto
+1- Clone o repositório do projeto ou faça download do zip (e descompacte para uma pasta)
 
 2- Navegue até a pasta do projeto usando um terminal de comando. Execute o seguinte comando: go run server.go
 
